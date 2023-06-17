@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arduino Controller HC05</string>
+    <string name="title_activity_vehicle_control">VehicleControlActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_data_screen">DataScreen</string>
+    <string name="title_activity_show_data">ShowDataActivity</string>
+</resources>
